@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/programowanie/visual 2015/c#/monogame xna/space invaders/space invaders/Content/SpriteFont1.spritefont</SourceFile>
+  <SourceTime>2016-03-30T08:36:08+02:00</SourceTime>
+  <DestFile>C:/programowanie/visual 2015/c#/monogame xna/space invaders/space invaders/Content/bin/Windows/SpriteFont1.xnb</DestFile>
+  <DestTime>2019-07-27T23:14:31.6743989+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

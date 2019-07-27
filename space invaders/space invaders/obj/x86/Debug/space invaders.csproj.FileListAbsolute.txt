@@ -1,0 +1,27 @@
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\Content\Spaceinvaders1.xnb
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\space invaders.exe
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\space invaders.pdb
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\obj\x86\Debug\space invaders.csprojResolveAssemblyReference.cache
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\obj\x86\Debug\space invaders.exe
+C:\programowanie\visual 2015\c#\monogame xna\space invaders\space invaders\obj\x86\Debug\space invaders.pdb
